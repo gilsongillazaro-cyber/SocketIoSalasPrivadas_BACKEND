@@ -8,9 +8,9 @@ O servidor é responsável por gerenciar as conexões dos usuários, comunicaç�
 
 ## 🌐 Projeto
 
-> 🚀 **Frontend:** COLOQUE_AQUI_O_LINK_DO_FRONTEND
+> 🚀 **Frontend:https://socketiosalasprivadas-frontend.vercel.app/** COLOQUE_AQUI_O_LINK_DO_FRONTEND
 >
-> 🌍 **Backend/API:** COLOQUE_AQUI_O_LINK_DO_BACKEND
+> 🌍 **Backend/API:https://socketiosalasprivadas-backend.onrender.com/** COLOQUE_AQUI_O_LINK_DO_BACKEND
 
 ---
 
